@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAD on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/cad/</link>
+    <description>Recent content in CAD on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Rockers</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-rockers/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-rockers/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+    </item>
+    
+    <item>
+      <title>Bent Lamination Field Hockey Stick</title>
+      <link>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+    </item>
+    
+  </channel>
+</rss>

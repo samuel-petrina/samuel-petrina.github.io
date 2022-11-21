@@ -2,17 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-11-21T12:59:56-05:00</lastmod>
+    <loc>https://samuel-petrina.github.io/posts/fsae-control-arms/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-11-21T12:59:56-05:00</lastmod>
+    <loc>https://samuel-petrina.github.io/posts/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-11-21T12:59:56-05:00</lastmod>
+    <loc>https://samuel-petrina.github.io/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://samuel-petrina.github.io/posts/fsae-uprights/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://samuel-petrina.github.io/tags/cad/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/tags/design/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/fsae-rockers/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/tags/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/tags/woodworking/</loc>
+    <lastmod>2022-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</loc>
+    <lastmod>2022-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</loc>
+    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/rocket-test-stand/</loc>
+    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/set-construction/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</loc>
+    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/posts/canoe-paddle/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/about/</loc>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/authors/</loc>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/categories/</loc>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/contact/</loc>
+  </url><url>
+    <loc>https://samuel-petrina.github.io/series/</loc>
   </url>
 </urlset>
