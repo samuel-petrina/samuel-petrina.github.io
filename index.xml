@@ -6,32 +6,25 @@
     <description>Recent content on Samuel Petrina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FSAE Control Arms</title>
       <link>https://samuel-petrina.github.io/posts/fsae-control-arms/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/fsae-control-arms/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Wishbones after being tacked on jigging plate, ready to be welded
+In previous years our team has used carbon fiber control arms. These are made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that often caused issues for our team.</description>
     </item>
     
     <item>
       <title>FSAE Uprights</title>
       <link>https://samuel-petrina.github.io/posts/fsae-uprights/</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/fsae-uprights/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
-    </item>
-    
-    <item>
-      <title>FSAE Rockers</title>
-      <link>https://samuel-petrina.github.io/posts/fsae-rockers/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://samuel-petrina.github.io/posts/fsae-rockers/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Finished rear upright
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design.</description>
     </item>
     
     <item>
@@ -40,7 +33,8 @@
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Rendering of final design done in Solidworks Visualizer
+Material selection for use in the nuclear field provides a unique set of constraints and challenges. Materials are under high stress at elevated temperatures while also being subject to radiation damage. These challenges require a unique field of research to make effective material selection choices. One technology that allows for the observation of a material’s microstructure is x-ray diffraction (XRD). To complement the XRD machine being purchased at Queen’s University, a miniature tensile stage suitable for use inside the XRD machine was needed.</description>
     </item>
     
     <item>
@@ -49,25 +43,27 @@
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
+    </item>
+    
+    <item>
+      <title>Loft Ladder</title>
+      <link>https://samuel-petrina.github.io/posts/loft-ladder/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/loft-ladder/</guid>
+      <description>Ladder in stowed position
+My aunt recently finished building her cottage on Galiano Island. To access the loft, she wanted a wooden ladder to replace the not-so-easy-on-the-eyes aluminum ladder that she had been using. Her main requirement was that she could move the ladder out of the way when not in use. This was accomplished using a slider rail at the top of the ladder. Because half the weight of the ladder is supported by the rail when the ladder is being moved, the ladder should be much more manageable to move.</description>
     </item>
     
     <item>
       <title>Solid Rocket Motor Test Stand</title>
       <link>https://samuel-petrina.github.io/posts/rocket-test-stand/</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/rocket-test-stand/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
-    </item>
-    
-    <item>
-      <title>Bent Lamination Field Hockey Stick</title>
-      <link>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Solidworks model of the final design
+At the end of first year at Queen&amp;rsquo;s University, all engineering students work on a group design project. Our team decided to take on the Queen&amp;rsquo;s Rocket Engineering Team as clients. They needed a test apparatus to allow them to test their prototype rocket motors. The primary challenge of designing a test stand for a rocket motor is constraining the motor while still allowing a load cell to be actuated.</description>
     </item>
     
     <item>
@@ -76,16 +72,27 @@
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/set-construction/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Stairs a few nights before the play
+In early 2020 my high school was putting on a production of Romeo &amp;amp; Juliet. Most of the stage equipment was provided by the school district, unfortunately, the stairs they had did not match the height of the stage. My close friend Sam and I decided to give a hand as we both had a few summers of construction experience. To figure out the stringer layout, I used CAD which made the whole process easy.</description>
     </item>
     
     <item>
-      <title>Scandinavian Coffee Table</title>
+      <title>Bent Lamination Field Hockey Stick</title>
+      <link>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</guid>
+      <description>Finished hockey stick
+After having decent success with sculptural woodworking projects like a canoe paddle, I wanted to do something more unique. I decided a field hockey stick would be a fun challenge. The issue with making a field hockey stick is the hook shape on the end. If you were to simply cut the stick out of a solid piece of wood, the hook would snap off with the slightest impact.</description>
+    </item>
+    
+    <item>
+      <title>Scandinavian Style Coffee Table</title>
       <link>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>After doing a few woodworking projects with more intricate joinery, I wanted to try to build something larger and more complex. I also wanted to experiment with using Fusion 360 for the design. After changing from SketchUp to a proper parametric CAD package, I&amp;rsquo;m not sure why anyone would use SketchUp. Having a quality CAD model also helped a ton when working as I could simply reference the model if I needed a dimension that was missing from the drawings.</description>
     </item>
     
     <item>
@@ -94,7 +101,8 @@
       <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/canoe-paddle/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <description>Paddle after sanding but before the urethane finish
+After seeing some beautiful beavertail paddles being sold at MEC, I was inspired to give making one a shot. The key distinguishing feature of a beavertail paddle is the narrow blade. This is traditionally done so the paddle can be made with a single reasonably sized board in the days before wood glue. Even though this isn&amp;rsquo;t relevant now, the style lives on.</description>
     </item>
     
     <item>
@@ -103,8 +111,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/about/</guid>
-      <description>My name is Samuel Petrina and I am a third-year engineering student at Queen&amp;rsquo;s University. I am currently working towards my BASc in mechanical engineering with a planned focus in robotics and mechatronics. At school, my major project is the Queen&amp;rsquo;s Formula SAE car for the 2023 season. For this year, I am the lead for the suspension, steering and braking systenms.
-Outside of school and work, I am an avid outdoor enthusiest and woodworker.</description>
+      <description>My name is Samuel Petrina and I am a third-year engineering student at Queen&amp;rsquo;s University. I am currently working towards my BASc in mechanical engineering with a planned focus in robotics and mechatronics. Currently, my major project is the Queen&amp;rsquo;s Formula SAE car for the 2023 season. This year, I am the team lead for the vehicle dynamics sub-team. Our team is responsible for the design and fabrication of the suspension, steering, and brakes systems.</description>
     </item>
     
     <item>
@@ -113,8 +120,7 @@ Outside of school and work, I am an avid outdoor enthusiest and woodworker.</des
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/contact/</guid>
-      <description>Hi there!Link to headingMy name is Samuel Petrina and I am a third-year engineering student at Queen&amp;rsquo;s University. I am currently working towards my BASc in mechanical engineering with a planned focus in robotics and mechatronics. At school, my major project is the Queen&amp;rsquo;s Formula SAE car for the 2023 season. For this year, I am the lead for the suspension, steering and braking systenms.
-Outside of school and work, I am an avid outdoor enthusiest and woodworker.</description>
+      <description>Hi there!Link to headingFeel free to shoot me an email or connect with me on LinkedIn. I&amp;rsquo;m happy to talk engineering, skiing, FSAE, or anything else!</description>
     </item>
     
   </channel>
