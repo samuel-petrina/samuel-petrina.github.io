@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MATLAB on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/matlab/</link>
+    <description>Recent content in MATLAB on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Control Arms</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-control-arms/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-control-arms/</guid>
+      <description>Wishbones after being tacked on jigging plate, ready to be welded
+In previous years, our team has used carbon fiber control arms made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that caused issues for our team.</description>
+    </item>
+    
+  </channel>
+</rss>

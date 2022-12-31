@@ -14,7 +14,7 @@
       
       <guid>https://samuel-petrina.github.io/posts/fsae-control-arms/</guid>
       <description>Wishbones after being tacked on jigging plate, ready to be welded
-In previous years our team has used carbon fiber control arms. These are made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that often caused issues for our team.</description>
+In previous years, our team has used carbon fiber control arms made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that caused issues for our team.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ In previous years our team has used carbon fiber control arms. These are made by
       
       <guid>https://samuel-petrina.github.io/posts/fsae-uprights/</guid>
       <description>Finished rear upright
-Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design.</description>
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD.</description>
     </item>
     
     <item>
@@ -43,7 +43,7 @@ Material selection for use in the nuclear field provides a unique set of constra
       <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</guid>
-      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
+      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques and workflows. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@ At the end of first year at Queen&amp;rsquo;s University, all engineering studen
       
       <guid>https://samuel-petrina.github.io/posts/set-construction/</guid>
       <description>Stairs a few nights before the play
-In early 2020 my high school was putting on a production of Romeo &amp;amp; Juliet. Most of the stage equipment was provided by the school district, unfortunately, the stairs they had did not match the height of the stage. My close friend Sam and I decided to give a hand as we both had a few summers of construction experience. To figure out the stringer layout, I used CAD which made the whole process easy.</description>
+In early 2020 my high school was putting on a production of Romeo &amp;amp; Juliet. Most of the stage equipment was provided by the school district, however, the stairs they had did not match the height of the stage. My close friend and I volunteered as we both had a few summers of construction experience. To figure out the stringer layout, I used CAD which made the whole process easy.</description>
     </item>
     
     <item>

@@ -147,7 +147,24 @@ Material selection for use in the nuclear field provides a unique set of constra
           </div>
           
           
-          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/solidworks/">Solidworks</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/fea/">FEA</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/ansys/">ANSYS</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/dfm/">DFM</a>
+    </span></div>
+
         </div>
       </header>
 
@@ -173,14 +190,14 @@ Material selection for use in the nuclear field provides a unique set of constra
         </figcaption>
 </figure>
 
-<p>To replicate the high-temperature environment seen in a nuclear reactor, a heating system was needed. This needed to be accomplished using resistive heating through the sample as heat transfer through the air is impossible in a vacuum. Because no heat loss will occur through convective cooling, the system needed a water-cooling system. This is done using channels directly through the sample jaws. This means no heat reaches any sensitive components including the loadcell, the LVDT, or the stepper motor. I used ANSYS thermal analysis to predict the required current through the sample to reach the desired temperatures and the heat flow from the sample to the jaws.</p>
+<p>To replicate the high-temperature environment seen in a nuclear reactor, a heating system was needed. This needed to be accomplished using resistive heating through the sample as heat transfer through the air is impossible in a vacuum. Because no heat loss will occur through convective cooling, the system needed a water-cooling system. This is done using channels directly through the sample jaws preventing heat from reaching any sensitive components including the loadcell, the LVDT, or the stepper motor. I used ANSYS thermal analysis to predict the required current through the sample to reach the desired temperatures and the heat flow from the sample to the jaws.</p>
 <figure><img src="tensile_rig_defeatured.png"
          alt="Defeatured CAD model used for FEA"/><figcaption>
             <p>Defeatured CAD model used for FEA</p>
         </figcaption>
 </figure>
 
-<p>To ensure the load frame was adequately stiff to produce accurate results, I setup up a detailed FEA model for the design. I created a defeatured configuration of the assembly in Solidworks which allowed me to easily export a simplified CAD file for use in ANSYS. For elements of the design that would be challenging to mesh such as the loadcell and the lead screw, I replaced them with equivalently stiff spring elements in ANSYS.</p>
+<p>To ensure the load frame was adequately stiff to produce accurate results, I set up up a detailed FEA model for the design. I created a defeatured configuration of the assembly in Solidworks which allowed me to easily export a simplified CAD file for use in ANSYS. For elements of the design that would be challenging to mesh such as the loadcell and the lead screw, I replaced them with equivalently stiff spring elements in ANSYS.</p>
 <figure><img src="tensile_rig_structural_fea.png"
          alt="Loadframe stiffness FEA results"/><figcaption>
             <p>Loadframe stiffness FEA results</p>

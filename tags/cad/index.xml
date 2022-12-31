@@ -6,23 +6,14 @@
     <description>Recent content in CAD on Samuel Petrina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/cad/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FSAE Rockers</title>
-      <link>https://samuel-petrina.github.io/posts/fsae-rockers/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <title>Scandinavian Style Coffee Table</title>
+      <link>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-petrina.github.io/posts/fsae-rockers/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
-    </item>
-    
-    <item>
-      <title>Bent Lamination Field Hockey Stick</title>
-      <link>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam nec lectus non nibh tempor pulvinar in ultricies libero. Nulla semper condimentum turpis vitae commodo. Cras accumsan dictum bibendum. In at ullamcorper arcu. Morbi sed mauris sed arcu mollis consequat. Duis tincidunt sagittis diam vel lacinia. Praesent consequat sapien pretium enim maximus, et auctor est lacinia. Suspendisse potenti. Mauris in rutrum nibh. Fusce congue nisi vitae massa interdum volutpat. Cras tincidunt libero nulla, at consequat ipsum fringilla ac.</description>
+      <guid>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</guid>
+      <description>After doing a few woodworking projects with more intricate joinery, I wanted to try to build something larger and more complex. I also wanted to experiment with using Fusion 360 for the design. After changing from SketchUp to a proper parametric CAD package, I&amp;rsquo;m not sure why anyone would use SketchUp. Having a quality CAD model also helped a ton when working as I could simply reference the model if I needed a dimension that was missing from the drawings.</description>
     </item>
     
   </channel>

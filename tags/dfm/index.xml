@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DFM on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/dfm/</link>
+    <description>Recent content in DFM on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/dfm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Uprights</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-uprights/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-uprights/</guid>
+      <description>Finished rear upright
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD.</description>
+    </item>
+    
+    <item>
+      <title>Miniature Tensile Testing Apparatus</title>
+      <link>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</guid>
+      <description>Rendering of final design done in Solidworks Visualizer
+Material selection for use in the nuclear field provides a unique set of constraints and challenges. Materials are under high stress at elevated temperatures while also being subject to radiation damage. These challenges require a unique field of research to make effective material selection choices. One technology that allows for the observation of a material’s microstructure is x-ray diffraction (XRD). To complement the XRD machine being purchased at Queen’s University, a miniature tensile stage suitable for use inside the XRD machine was needed.</description>
+    </item>
+    
+  </channel>
+</rss>

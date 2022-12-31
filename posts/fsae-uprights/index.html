@@ -13,17 +13,17 @@
 
 <meta name="author" content="Samuel Petrina">
 <meta name="description" content="Finished rear upright
-Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design.">
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD.">
 <meta name="keywords" content="Mechanical Engineering Student">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="FSAE Uprights"/>
 <meta name="twitter:description" content="Finished rear upright
-Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design."/>
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD."/>
 
 <meta property="og:title" content="FSAE Uprights" />
 <meta property="og:description" content="Finished rear upright
-Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design." />
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://samuel-petrina.github.io/posts/fsae-uprights/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-11-20T00:00:00+00:00" />
@@ -146,7 +146,28 @@ Because our suspension geometry had changed significantly from our previous car,
           </div>
           
           
-          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/fsae/">FSAE</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/solidworks/">Solidworks</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/fea/">FEA</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/ansys/">ANSYS</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="/tags/dfm/">DFM</a>
+    </span></div>
+
         </div>
       </header>
 
@@ -158,21 +179,21 @@ Because our suspension geometry had changed significantly from our previous car,
         </figcaption>
 </figure>
 
-<p>Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify old CAD, however, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design.</p>
+<p>Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD. Unfortunately, because it was designed using lofts and surface modeling, it was frustrating at best to edit the design.</p>
 <figure><img src="rear_upright_cad.png"
          alt="Rear upright CAD in Solidworks"/><figcaption>
             <p>Rear upright CAD in Solidworks</p>
         </figcaption>
 </figure>
 
-<p>The material that we used for the uprights was purchased in early 2020 before we were shut down by COVID. This meant that we had to ensure that our design would fit inside the billets that we already had. For the front upright, this mandated the bolt-on tie-rod attachment instead of having an integral clevis. For the rear upright, we made the control arm attachment points integrated into the upright as opposed to having them bolt on. Removing this bolted connection allowed the design to fit into the existing billet. While designing the component, I made special consideration to maintain editable CAD. This enabled easier and faster iterations of the design.</p>
+<p>The material that we used for the uprights was purchased in early 2020 before we were shut down by COVID. This meant that we had to ensure that our design would fit inside the billets that we already had. For the front upright, this mandated the bolt-on tie-rod attachment instead of having an integral clevis. For the rear upright, we integrated the control arm attachment points directly into the upright as opposed to having them bolt on. Removing this bolted connection allowed the design to fit into the existing billet. While designing the component, I focused on maintaining editable CAD. This enabled easier and faster iterations of the design.</p>
 <figure><img src="front_upright.jpg"
          alt="Finished front upright"/><figcaption>
             <p>Finished front upright</p>
         </figcaption>
 </figure>
 
-<p>To complete FEA on the uprights, we used a remote point load to apply force to the upright at the contact patch of the tire. This meant the moment caused by the radius of the tire was correctly replicated. To constrain the upright, we locked translation in specific directions at each control arm attachment point. This meant that each attachment point would only take load in the direction that was physically possible. When it came time to manufacture the uprights we decided to have our school shop help us. This decision was primarily due to the lack of machining experience in our team. In the end, we were happy with our choice to have the professionals do the work when we saw the final product.</p>
+<p>To complete FEA on the uprights, we used a remote point load to apply force to the upright at the contact patch of the tire. This meant the moment caused by the radius of the tire was correctly replicated. To constrain the upright, we locked translation in specific directions at each control arm attachment point. This meant that each attachment point would only take load in the direction that was physically possible. For example, a tie-rod can only apply load in-line with itself. Due to a lack of machining experience on our team, we decided to have our school shop help us. In the end, we were happy with our choice to have the professionals do the work when we saw the final product.</p>
 <figure><img src="front_upright_cad.png"
          alt="Front upright CAD in Solidworks"/><figcaption>
             <p>Front upright CAD in Solidworks</p>
