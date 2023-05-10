@@ -1,0 +1,72 @@
+baseURL = "https://samuel-petrina.github.io/"
+title = "Samuel Petrina"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+author = "Samuel Petrina"
+# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+description = "Samuel Petrina's personal website"
+keywords = "Mechanical Engineering Student"
+info = ["Mechanical Engineering Student at Queen's University "]
+avatarURL = "images/head-shot.jpg"
+dateFormat = "January 2, 2006"
+
+# Git Commit in Footer, uncomment the line below to enable it
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+colorScheme = "light"
+# Series see also post count
+maxSeeAlsoItems = 5
+
+hideColorSchemeToggle = true
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 1
+url = "https://www.linkedin.com/in/samuel-petrina-4a1815203/"
+
+[[params.social]]
+name = "Email"
+icon = "fa fa-2x fa-envelope"
+weight = 2
+url = "mailto:samuel.a.petrina@gmail.com"
+
+[[params.social]]
+name = "Resume"
+icon = "fa fa-2x fa-file-text-o"
+weight = 3
+url = "Resume - Samuel Petrina.pdf"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 3
+url = "Resume - Samuel Petrina.pdf"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 4
+url = "contact/"
+
