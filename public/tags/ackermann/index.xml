@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ackermann on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/ackermann/</link>
+    <description>Recent content in Ackermann on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/ackermann/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Steering System</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-steering-system/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-steering-system/</guid>
+      <description>One particularly challenging subsystem of an FSAE car is the steering system. The primary reason for the difficulty is how close the front wheels are to the steering wheel. In a street car and most open-wheeled vehicles for that matter, the front wheels are well in front of the steering wheel meaning the steering rack and the steering wheel can be connected with a few universal joints. The classic FSAE solution in the past was to place the steering rack in-line with the upper control arm.</description>
+    </item>
+    
+  </channel>
+</rss>

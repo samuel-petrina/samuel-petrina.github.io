@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimum K on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/optimum-k/</link>
+    <description>Recent content in Optimum K on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/optimum-k/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Suspension Geometry</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</guid>
+      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques and workflows. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
+    </item>
+    
+  </channel>
+</rss>

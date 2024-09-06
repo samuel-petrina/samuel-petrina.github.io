@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carpentry on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/carpentry/</link>
+    <description>Recent content in Carpentry on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/carpentry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set Construction for Romeo &amp; Juliet</title>
+      <link>https://samuel-petrina.github.io/posts/set-construction/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/set-construction/</guid>
+      <description>Stairs a few nights before the play
+In early 2020 my high school was putting on a production of Romeo &amp;amp; Juliet. Most of the stage equipment was provided by the school district, however, the stairs they had did not match the height of the stage. My close friend and I volunteered as we both had a few summers of construction experience. To figure out the stringer layout, I used CAD which made the whole process easy.</description>
+    </item>
+    
+  </channel>
+</rss>

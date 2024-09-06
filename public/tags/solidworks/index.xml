@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solidworks on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/solidworks/</link>
+    <description>Recent content in Solidworks on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/solidworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Anti-roll Bar</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-anti-roll-bar/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-anti-roll-bar/</guid>
+      <description>ARB before powder coat
+Overly complex anti-roll bar designs seem to be a theme in FSAE (our team included). This year, the main way we reduced complexity was by placing the bushings on the outside of the arms. This meant that the arms and shaft could be a single welded assembly. Previous designs used a hex connection between the arms and the shaft which was bound to fail, have an excessive backlash, or just be a pain to manufacture at minimum.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Steering System</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-steering-system/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-steering-system/</guid>
+      <description>One particularly challenging subsystem of an FSAE car is the steering system. The primary reason for the difficulty is how close the front wheels are to the steering wheel. In a street car and most open-wheeled vehicles for that matter, the front wheels are well in front of the steering wheel meaning the steering rack and the steering wheel can be connected with a few universal joints. The classic FSAE solution in the past was to place the steering rack in-line with the upper control arm.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Control Arms</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-control-arms/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-control-arms/</guid>
+      <description>Wishbones after being tacked on jigging plate, ready to be welded
+In previous years, our team has used carbon fiber control arms made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that caused issues for our team.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Uprights</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-uprights/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-uprights/</guid>
+      <description>Finished rear upright
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD.</description>
+    </item>
+    
+    <item>
+      <title>Miniature Tensile Testing Apparatus</title>
+      <link>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</guid>
+      <description>Rendering of final design done in Solidworks Visualizer
+Material selection for use in the nuclear field provides a unique set of constraints and challenges. Materials are under high stress at elevated temperatures while also being subject to radiation damage. These challenges require a unique field of research to make effective material selection choices. One technology that allows for the observation of a material’s microstructure is x-ray diffraction (XRD). To complement the XRD machine being purchased at Queen’s University, a miniature tensile stage suitable for use inside the XRD machine was needed.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Suspension Geometry</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</guid>
+      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques and workflows. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
+    </item>
+    
+    <item>
+      <title>Loft Ladder</title>
+      <link>https://samuel-petrina.github.io/posts/loft-ladder/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/loft-ladder/</guid>
+      <description>Ladder in stowed position
+My aunt recently finished building her cottage on Galiano Island. To access the loft, she wanted a wooden ladder to replace the not-so-easy-on-the-eyes aluminum ladder that she had been using. Her main requirement was that she could move the ladder out of the way when not in use. This was accomplished using a slider rail at the top of the ladder. Because half the weight of the ladder is supported by the rail when the ladder is being moved, the ladder should be much more manageable to move.</description>
+    </item>
+    
+    <item>
+      <title>Solid Rocket Motor Test Stand</title>
+      <link>https://samuel-petrina.github.io/posts/rocket-test-stand/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/rocket-test-stand/</guid>
+      <description>Solidworks model of the final design
+At the end of first year at Queen&amp;rsquo;s University, all engineering students work on a group design project. Our team decided to take on the Queen&amp;rsquo;s Rocket Engineering Team as clients. They needed a test apparatus to allow them to test their prototype rocket motors. The primary challenge of designing a test stand for a rocket motor is constraining the motor while still allowing a load cell to be actuated.</description>
+    </item>
+    
+  </channel>
+</rss>

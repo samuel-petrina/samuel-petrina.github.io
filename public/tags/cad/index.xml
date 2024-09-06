@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAD on Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/tags/cad/</link>
+    <description>Recent content in CAD on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/tags/cad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scandinavian Style Coffee Table</title>
+      <link>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</guid>
+      <description>After doing a few woodworking projects with more intricate joinery, I wanted to try to build something larger and more complex. I also wanted to experiment with using Fusion 360 for the design. After changing from SketchUp to a proper parametric CAD package, I&amp;rsquo;m not sure why anyone would use SketchUp. Having a quality CAD model also helped a ton when working as I could simply reference the model if I needed a dimension that was missing from the drawings.</description>
+    </item>
+    
+  </channel>
+</rss>

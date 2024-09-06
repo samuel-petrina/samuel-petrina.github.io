@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Petrina</title>
+    <link>https://samuel-petrina.github.io/</link>
+    <description>Recent content on Samuel Petrina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wheelchair Cup Holder</title>
+      <link>https://samuel-petrina.github.io/posts/set-construction-copy/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/set-construction-copy/</guid>
+      <description>This was a quick design and 3D printing project for my mother. She works as an OT and one of her patients needed a cup-holder attached to his wheel chair. She showed me a janky metal bracket that was previously being used and I thought I could do better. After a few minutes of design, we had this.
+3D printed cup-holder mount</description>
+    </item>
+    
+    <item>
+      <title>2023 FSAE Season Conclusion</title>
+      <link>https://samuel-petrina.github.io/posts/2023-fsae-season-conclusion/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/2023-fsae-season-conclusion/</guid>
+      <description>If all went to plan, next week, the team would be traveling to the FSAE competition in Michigan. Unfortunately, due to engine troubles, we will not be participating. Due to a failed gear, we would have needed to rebuild most of the engine to get the car running. We decided to call it for the season and save the money to help with our transition to EV. Despite our shortcomings, I still believe we had a successful season.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Anti-roll Bar</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-anti-roll-bar/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-anti-roll-bar/</guid>
+      <description>ARB before powder coat
+Overly complex anti-roll bar designs seem to be a theme in FSAE (our team included). This year, the main way we reduced complexity was by placing the bushings on the outside of the arms. This meant that the arms and shaft could be a single welded assembly. Previous designs used a hex connection between the arms and the shaft which was bound to fail, have an excessive backlash, or just be a pain to manufacture at minimum.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Steering System</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-steering-system/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-steering-system/</guid>
+      <description>One particularly challenging subsystem of an FSAE car is the steering system. The primary reason for the difficulty is how close the front wheels are to the steering wheel. In a street car and most open-wheeled vehicles for that matter, the front wheels are well in front of the steering wheel meaning the steering rack and the steering wheel can be connected with a few universal joints. The classic FSAE solution in the past was to place the steering rack in-line with the upper control arm.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Control Arms</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-control-arms/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-control-arms/</guid>
+      <description>Wishbones after being tacked on jigging plate, ready to be welded
+In previous years, our team has used carbon fiber control arms made by gluing aluminum lugs into the end of carbon tubing. This works quite well for tie-rods and pushrods where the lug is a simple cylindrical part with a tapped hole for rod-end bearings. The lugs for the wishbones however were a complex 4-axis milling job that caused issues for our team.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Uprights</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-uprights/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-uprights/</guid>
+      <description>Finished rear upright
+Because our suspension geometry had changed significantly from our previous car, we needed to design and manufacture new front and rear uprights. Our primary goal for this year&amp;rsquo;s design was manufacturability. For us, this meant ensuring all features can be machined from just two milling machine setups. Our front geometry was similar to the previous design so we had the option to simply modify the old CAD.</description>
+    </item>
+    
+    <item>
+      <title>Miniature Tensile Testing Apparatus</title>
+      <link>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/miniature-tensile-testing-apparatus/</guid>
+      <description>Rendering of final design done in Solidworks Visualizer
+Material selection for use in the nuclear field provides a unique set of constraints and challenges. Materials are under high stress at elevated temperatures while also being subject to radiation damage. These challenges require a unique field of research to make effective material selection choices. One technology that allows for the observation of a material’s microstructure is x-ray diffraction (XRD). To complement the XRD machine being purchased at Queen’s University, a miniature tensile stage suitable for use inside the XRD machine was needed.</description>
+    </item>
+    
+    <item>
+      <title>FSAE Suspension Geometry</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-suspension-geometry/</guid>
+      <description>In January 2022, I stepped in as vehicle dynamics lead. For the previous two years, work was focused on the car that was put on pause due to COVID-19. At the end of 2022, this design was scraped and the Q23 car design was started new. Because suspension kinematic design had not been completed for over two years, I had to redevelop many techniques and workflows. We completed kinematic design in Optimum K with a primary focus on steering layout.</description>
+    </item>
+    
+    <item>
+      <title>Loft Ladder</title>
+      <link>https://samuel-petrina.github.io/posts/loft-ladder/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/loft-ladder/</guid>
+      <description>Ladder in stowed position
+My aunt recently finished building her cottage on Galiano Island. To access the loft, she wanted a wooden ladder to replace the not-so-easy-on-the-eyes aluminum ladder that she had been using. Her main requirement was that she could move the ladder out of the way when not in use. This was accomplished using a slider rail at the top of the ladder. Because half the weight of the ladder is supported by the rail when the ladder is being moved, the ladder should be much more manageable to move.</description>
+    </item>
+    
+    <item>
+      <title>Solid Rocket Motor Test Stand</title>
+      <link>https://samuel-petrina.github.io/posts/rocket-test-stand/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/rocket-test-stand/</guid>
+      <description>Solidworks model of the final design
+At the end of first year at Queen&amp;rsquo;s University, all engineering students work on a group design project. Our team decided to take on the Queen&amp;rsquo;s Rocket Engineering Team as clients. They needed a test apparatus to allow them to test their prototype rocket motors. The primary challenge of designing a test stand for a rocket motor is constraining the motor while still allowing a load cell to be actuated.</description>
+    </item>
+    
+    <item>
+      <title>Set Construction for Romeo &amp; Juliet</title>
+      <link>https://samuel-petrina.github.io/posts/set-construction/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/set-construction/</guid>
+      <description>Stairs a few nights before the play
+In early 2020 my high school was putting on a production of Romeo &amp;amp; Juliet. Most of the stage equipment was provided by the school district, however, the stairs they had did not match the height of the stage. My close friend and I volunteered as we both had a few summers of construction experience. To figure out the stringer layout, I used CAD which made the whole process easy.</description>
+    </item>
+    
+    <item>
+      <title>Bent Lamination Field Hockey Stick</title>
+      <link>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/bent-lamination-field-hockey-stick/</guid>
+      <description>Finished hockey stick
+After having decent success with sculptural woodworking projects like a canoe paddle, I wanted to do something more unique. I decided a field hockey stick would be a fun challenge. The issue with making a field hockey stick is the hook shape on the end. If you were to simply cut the stick out of a solid piece of wood, the hook would snap off with the slightest impact.</description>
+    </item>
+    
+    <item>
+      <title>Scandinavian Style Coffee Table</title>
+      <link>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/scandinavian-coffee-table/</guid>
+      <description>After doing a few woodworking projects with more intricate joinery, I wanted to try to build something larger and more complex. I also wanted to experiment with using Fusion 360 for the design. After changing from SketchUp to a proper parametric CAD package, I&amp;rsquo;m not sure why anyone would use SketchUp. Having a quality CAD model also helped a ton when working as I could simply reference the model if I needed a dimension that was missing from the drawings.</description>
+    </item>
+    
+    <item>
+      <title>Beavertail Style Canoe Paddle</title>
+      <link>https://samuel-petrina.github.io/posts/canoe-paddle/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/canoe-paddle/</guid>
+      <description>Paddle after sanding but before the urethane finish
+After seeing some beautiful beavertail paddles being sold at MEC, I was inspired to give making one a shot. The key distinguishing feature of a beavertail paddle is the narrow blade. This is traditionally done so the paddle can be made with a single reasonably sized board in the days before wood glue. Even though this isn&amp;rsquo;t relevant now, the style lives on.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://samuel-petrina.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/about/</guid>
+      <description>My name is Samuel Petrina and I am a mechanical engineering student graduating from Queen&amp;rsquo;s University in April 2025. Through 18 months of internship work as well as design-team experience, I have equipped myself with excellent hands-on and technical skills. In these roles, I have demonstrated my ability to work effectively both independently and as part of a larger multidisciplinary team. Additionally, I have developed a wide range of technical skills.</description>
+    </item>
+    
+    <item>
+      <title>Contact me</title>
+      <link>https://samuel-petrina.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/contact/</guid>
+      <description>Hi there!Link to headingFeel free to shoot me an email or connect with me on LinkedIn. I&amp;rsquo;m happy to talk engineering, skiing, FSAE, or anything else!</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://samuel-petrina.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/experience/</guid>
+      <description>During my undergraduate degree, I completed 18 months of intership at 4 different organizations.
+In this section, I&amp;rsquo;ll provide more details of each role. See here for a conventional resume.
+Tesla CorperationLink to headingFrom May until August of 2024, I worked on the battery structures team of Tesla. This role exposed me to design for much higher volumes then I had previously seen before. At my previous internship, typical volumes were 10 to 1000 per year.</description>
+    </item>
+    
+  </channel>
+</rss>
