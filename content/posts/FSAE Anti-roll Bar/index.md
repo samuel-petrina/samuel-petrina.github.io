@@ -10,6 +10,6 @@ Overly complex anti-roll bar designs seem to be a theme in FSAE (our team includ
 
 {{< figure src="ARB_arms.JPG"  caption="Closeup of arms">}}
 
-The second way this design made our lives easier was by making the structural analysis quite straight-forwards. For the shaft analysis, I prepared a simple spreadsheet that would output roll-stiffness contributions and factor-of-safety for the anti-roll bar shaft. The arms were validated with some quick beam analysis. Finally, the welds were quite simple to analyize as the entire bead is equidistant from the shaft center line meaning the stress is evenly distributed.
+The second way this design made our lives easier was by making the structural analysis quite straight-forwards. For the shaft analysis, I prepared a simple spreadsheet that would output roll-stiffness contributions and factor-of-safety for the anti-roll bar shaft. The arms were validated with some quick beam analysis which showed the deflection is negligable compared to the shaft torsion. Finally, the welds were quite simple to analyze as the entire bead is equidistant from the shaft center line meaning the stress is evenly distributed.
 
 {{< figure src="spreadsheet.png"  caption="Shaft analysis">}}

@@ -6,6 +6,6 @@ My name is Samuel Petrina and I am a mechanical engineering student graduating f
 
 {{< figure src="skiing.jpg" >}}
 
-Currently, my major project is contributing to the Queen's Formula SAE team (FSAE). This year, I am taking on the roles of mechanical team lead as well as suspension lead. This year has been particularly fun because of the many new projects related to our team's transition to an electric drivetrain. Since our team has only previously built IC cars, there are many inter-subteam decisions that I get to help coordinate. Managing the suspension team for a second year also provides a unique opportunity to truly optimize both the design and manufacturing processes.
+Currently, my major projects are contributing to the Queen's Formula SAE team (FSAE) as well as my final-year capstone design project. For this project, we are designing a reversing gearbox to be used in the 2025 Queen's Baja offroad vehicle.
 
 Outside of engineering, I am an avid outdoor enthusiast and woodworker. In the winter I am a keen skier; both in-bounds and touring; primarily in and around Whistler. In the summer, I spend my free time hiking and climbing around Squamish. In essence, if I'm outside, I'm having a good time. If the weather is not so friendly, I enjoy working on a variety of woodworking projects.

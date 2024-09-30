@@ -6,13 +6,33 @@
     <description>Recent content on Samuel Petrina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://samuel-petrina.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FSAE Bellcrank/rocker</title>
+      <link>https://samuel-petrina.github.io/posts/fsae-rocker/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/fsae-rocker/</guid>
+      <description>The previous suspenion rocker links for our car were supposed to be a simple part. We planned on water-jetting the majority of the geometry with with clearences for rod-end bearings machined afterwards. In reality, each of these pockets required the part to be indicated square, the mill to be zeroed and finally two tool paths to be run which all takes time.
+This year, I fully eliminated milled features by separating the rocker into two plates.</description>
+    </item>
+    
+    <item>
+      <title>Three practical 3D prints with the X1 Carbon</title>
+      <link>https://samuel-petrina.github.io/posts/three-quick-3d-prints/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://samuel-petrina.github.io/posts/three-quick-3d-prints/</guid>
+      <description>At my current internship, we have access to Bambu X1 3D printers. I decided doing some practical prints would be a fun way to test them out. I also decided it was a good chance to test out OnShape which I haven&amp;rsquo;t previously used.
+My first project was a holder for my work keyfob. Ever since my family started using keyless entry at home, I have not been carrying keys daily.</description>
+    </item>
+    
     <item>
       <title>Wheelchair Cup Holder</title>
-      <link>https://samuel-petrina.github.io/posts/set-construction-copy/</link>
+      <link>https://samuel-petrina.github.io/posts/wheelchair-cup-holder/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://samuel-petrina.github.io/posts/set-construction-copy/</guid>
+      <guid>https://samuel-petrina.github.io/posts/wheelchair-cup-holder/</guid>
       <description>This was a quick design and 3D printing project for my mother. She works as an OT and one of her patients needed a cup-holder attached to his wheel chair. She showed me a janky metal bracket that was previously being used and I thought I could do better. After a few minutes of design, we had this.
 3D printed cup-holder mount</description>
     </item>
